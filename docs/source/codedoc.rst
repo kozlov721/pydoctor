@@ -177,7 +177,7 @@ Some special keywords will be recognized: "optional" and "default"::
     :type value: int, default: -1
     :type value: dict(str, int), default: same as default_dict
 
-.. note:: Literals caracters - numbers and strings within quotes - will be automatically rendered like docutils literals.
+.. note:: Literals characters - numbers and strings within quotes - will be automatically rendered like docutils literals.
 
 .. note:: It's not currently possible to combine parameter type and description inside the same ``param`` field, see issue `#267 <https://github.com/twisted/pydoctor/issues/267>`_.
 
